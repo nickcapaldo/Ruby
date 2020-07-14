@@ -1,0 +1,6 @@
+The is a ruby program that reads in ablum/s and all their tracks from a text file.
+
+In the program you can choose which text file is read, display the albums and tracks and update albums
+
+
+-Please note I have not yet implemented a play album yet
