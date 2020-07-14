@@ -1,0 +1,25 @@
+2
+Neil Diamond
+Greatest Hits
+1
+3
+Crackling Rose
+sounds/01-Cracklin-rose.wav
+Soolaimon
+sounds/06-Soolaimon.wav
+Sweet Caroline
+sounds/20-Sweet_Caroline.wav
+The Avenue Project
+Havoc
+4
+5
+Kaoss
+sounds/01-Kaoss.wav
+Sediments and Crustaceans
+sounds/02-Sediments_and_Crustaceans.wav
+Havoc
+sounds/03-Havoc.wav
+Malevolence
+sounds/04-Malevolence.wav
+Anarchy
+sounds/05-Anarchy.wav
